@@ -36,9 +36,8 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://imgur.com/nmbmOla.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+https://user-images.githubusercontent.com/61328054/123585740-b0c7cf00-d7b1-11eb-9b27-789b12a66ad5.mp4
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
@@ -51,7 +50,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2019] [CodePath]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
